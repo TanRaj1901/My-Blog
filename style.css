@@ -1,3 +1,19 @@
+body {
+    background-color: darkturquoise;
+}
+
+h2 {
+    color: darkslategray;
+}
+
+.container {
+    background-color: mediumspringgreen;
+}
+
+.introduction {
+    margin-top: 20px;
+}
+
 #contact iframe {
     width: 100%;
 }
