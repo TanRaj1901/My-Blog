@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: darkturquoise;
 }
@@ -48,6 +52,7 @@ input {
 .travel_mainDiv h5,
 .travel_mainDiv p {
     margin-left: 20px;
+    color: black;
 }
 
 .movie_head {
@@ -101,4 +106,32 @@ input {
 
 .environment_li2 p {
     margin-top: 10px;
+}
+
+.header_entreprneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
 }
